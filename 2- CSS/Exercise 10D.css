@@ -1,0 +1,49 @@
+.first-main-div{
+width: 300px;
+box-shadow: 0 0 5px black;
+border-radius: 4px;
+vertical-align: top;
+margin-right: 15px;
+display: inline-block;
+}
+.cover-photo{
+height: 100%;
+width: 100%;
+}
+.profile-photo{
+width: 40px;
+display: inline-block;
+border-radius: 50%;
+margin-left: 8px;
+}
+
+.name{
+    font-weight: bold;
+    margin: 8px;
+}
+
+.first-div{
+    height: 30px;
+}
+
+.mutual{
+    margin: 0px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 30px;
+    color: #444444;
+}
+.button{
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+    background-color: rgb(24, 119, 242);
+    color: azure;
+    border: none;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+}

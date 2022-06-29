@@ -1,0 +1,8 @@
+.first-name,
+.last-name {
+width: 148px;
+}
+
+.email{
+    display: block;
+}
